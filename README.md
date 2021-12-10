@@ -1,6 +1,6 @@
 # recipe_finder
 
-Starter Recipe Finder
+Recipe Finder app by Mumin Ahmod. This app finds recipe by search bar and shows the list of recipes. You can Bookmark the recipes and the Ingredients will be Saved in the Ingredients/Grocery page.
 
 ## Getting Started
 
