@@ -1,6 +1,14 @@
 # recipe_finder
 
-Recipe Finder app by Mumin Ahmod. This app finds recipe by search bar and shows the list of recipes. You can Bookmark the recipes and the Ingredients will be Saved in the Ingredients/Grocery page.
+Recipe Finder app by Mumin Ahmod. This app finds recipe by search bar and shows the list of recipes.    
+You can Bookmark the recipes and the Ingredients will be Saved in the Ingredients/Grocery page.   
+The app used with Provider state management and remote json api.  
+
+
+![ss-recipe app](https://user-images.githubusercontent.com/73420728/151976299-d62144da-1b0c-4df0-a168-c1a6b99333ba.jpg)
+
+
+
 
 ## Getting Started
 
